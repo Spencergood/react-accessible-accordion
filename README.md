@@ -3,7 +3,7 @@
 
 ## Why I made this component:
 
-As useful accordions can be in terms of user experience, they introduce some issues that could make the content less accessible for people using screen readers if they arent implimented properly. For example, if ARIA properties, roles ad states are not used, a person using a screen reader wouldn't have a way to predict what would happen if they were to click the accordian heading.
+As useful accordions can be in terms of user experience, they introduce some issues that could make the content less accessible for people using screen readers if they arent implimented properly. For example, if ARIA properties, roles and states are not used, a person using a screen reader wouldn't have a way to predict what would happen if they were to click the accordian heading.
 
 Additionally, I needed a custom solution for an accessible accordion that wouldn't require a framework like Bootstrap. Which led me to building it without any dependencies as a pure React component, while following the guidelines set forth by W3's pattern for an accessible accordion.
 
