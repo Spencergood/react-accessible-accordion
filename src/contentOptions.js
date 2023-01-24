@@ -15,20 +15,11 @@ const intro = {
           As useful accordions can be in terms of user experience, they
           introduce some issues that could make the content less accessible for
           people using screen readers if they arent implimented properly. For
-          example, if ARIA semantics are not used, a person using a screen
-          reader wouldn't have a way to predict what would happen if they were
-          to click the accordian heading.
+          example, if ARIA properties, roles ad states are not used, a person
+          using a screen reader wouldn't have a way to predict what would happen
+          if they were to click the accordian heading.
         </p>
 
-        <p>
-          When using accordions in React, it can be challenging to implement
-          smooth animations when expanding and collapsing sections. React works
-          differently than vanilla javascript and it can be more complicated to
-          get the heights of elements and manipulate the DOM. It requires a bit
-          more knowledge about the React's lifecycle methods, state management,
-          and component structure. So i wanted to make an accordion others could
-          download and quickly use in their own projects.
-        </p>
         <p>
           Additionally, I needed a custom solution for an accessible accordion
           that wouldn't require a framework like Bootstrap. Which led me to
