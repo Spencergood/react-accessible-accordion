@@ -12,9 +12,7 @@ const Accordion = (props) => {
     contentRef.current.forEach((ref, i) => {
       ref.current.setAttribute("data-acc-height", ref.current.scrollHeight);
     });
-    contentRef.current.forEach((ref, i) => {
-      ref.current.setAttribute("data-acc-height", ref.current.scrollHeight);
-    });
+
 
     contentRef.current.forEach((ref, i) => {
       if (index === i) {
