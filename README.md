@@ -27,12 +27,12 @@ It looks something like this:
 
 Finally, you can use the Accordion in your JSX and pass the items object as a prop:
 
-    "<Accordion className={"accordian1"} items={items} />"
+    <Accordion className={"accordian1"} items={items} />
 
 Check the App.js file associated with this codesandbox to see example usage.
 
 
-## Demo
+## Demo (Codesandbox(
 
 https://x1xtb0.csb.app/
 
