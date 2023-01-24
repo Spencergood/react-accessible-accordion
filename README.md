@@ -1,4 +1,4 @@
-# Accessible Accordion Example (Pure React Component)
+# Accessible Accordion (Pure React Component)
 
 
 ## Why I made this component:
