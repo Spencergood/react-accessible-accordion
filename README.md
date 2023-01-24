@@ -13,20 +13,20 @@ All you need to do is download the files from the 'Accordion' folder and create 
 It looks something like this:
 
     const items = [
-    {
-      title: "ARIA Implimentation",
-        content: "Lorem ipsum dolor set emet."
-    },
-    {
-     title: "Proper HTML Element Usage",
-     content:
-       "Lorem ipsum dolor set emet."
-    }
-  ];
+        {
+          title: "ARIA Implimentation",
+            content: "Lorem ipsum dolor set emet."
+        },
+        {
+         title: "Proper HTML Element Usage",
+         content:
+           "Lorem ipsum dolor set emet."
+        }
+    ];
 
 Finally, you can use the Accordion in your JSX and pass the items object as a prop:
 
-  "<Accordion className={"accordian1"} items={items} />"
+    "<Accordion className={"accordian1"} items={items} />"
 
 Check the App.js file associated with this codesandbox to see example usage.
 
