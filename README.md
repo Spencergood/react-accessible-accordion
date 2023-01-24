@@ -19,8 +19,7 @@ It looks something like this:
         },
         {
          title: "Proper HTML Element Usage",
-         content:
-           "Lorem ipsum dolor set emet."
+         content: "Lorem ipsum dolor set emet."
         }
     ];
 
