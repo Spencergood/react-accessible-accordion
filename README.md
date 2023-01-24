@@ -11,7 +11,7 @@ Additionally, I needed a custom solution for an accessible accordion that wouldn
 
 ## Usage:
 
-All you need to do is download the files from the 'Accordion' folder and create a similar folder in your own React app and upload the files. And import the component where ever you want to use it. Then add each accordion item to an object (called 'items' in the demo).
+Download the files from the 'Accordion' folder and create a similar folder in your own React app and upload the files. And import the component where ever you want to use it. Then add each accordion item to an object (called 'items' in the demo).
 It looks something like this:
 
     const items = [
